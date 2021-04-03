@@ -10,7 +10,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class JsonDeserializer {
+public interface JsonDeserializer {
     public static LinkedList<PortEntity> deserialize(String fileName) throws IllegalAccessException,
             InvocationTargetException, InstantiationException {
         FileReader inputJsonFile = null;

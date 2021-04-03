@@ -5,26 +5,26 @@
         "day":"1",
         "service1.Time":
         {
-            "hour":"6",
-            "minute":"33"
+            "hour":"0",
+            "minute":"54"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship3"
+        "name":"Ship6"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"liquid"
+            "typeDescription":"container"
         },
-        "weight":"26063"
+        "weight":"10931"
     },
     "service1.Time":
     {
-        "hour":"14",
-        "minute":"28"
+        "hour":"13",
+        "minute":"0"
     }
 }
 "service1.PortEntity"
@@ -34,8 +34,8 @@
         "day":"1",
         "service1.Time":
         {
-            "hour":"19",
-            "minute":"52"
+            "hour":"7",
+            "minute":"36"
         }
     },
     "service1.Ship":
@@ -48,12 +48,12 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"17970"
+        "weight":"25788"
     },
     "service1.Time":
     {
-        "hour":"9",
-        "minute":"59"
+        "hour":"14",
+        "minute":"19"
     }
 }
 "service1.PortEntity"
@@ -63,8 +63,37 @@
         "day":"1",
         "service1.Time":
         {
-            "hour":"22",
-            "minute":"9"
+            "hour":"7",
+            "minute":"58"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship8"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"21901"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"10"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"1",
+        "service1.Time":
+        {
+            "hour":"10",
+            "minute":"20"
         }
     },
     "service1.Ship":
@@ -75,14 +104,14 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"container"
+            "typeDescription":"dry"
         },
-        "weight":"16537"
+        "weight":"17850"
     },
     "service1.Time":
     {
-        "hour":"19",
-        "minute":"41"
+        "hour":"14",
+        "minute":"52"
     }
 }
 "service1.PortEntity"
@@ -92,8 +121,8 @@
         "day":"1",
         "service1.Time":
         {
-            "hour":"22",
-            "minute":"14"
+            "hour":"18",
+            "minute":"51"
         }
     },
     "service1.Ship":
@@ -104,25 +133,25 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
+            "typeDescription":"container"
         },
-        "weight":"15072"
+        "weight":"5490"
     },
     "service1.Time":
     {
-        "hour":"12",
-        "minute":"33"
+        "hour":"6",
+        "minute":"32"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"2",
+        "day":"1",
         "service1.Time":
         {
-            "hour":"10",
-            "minute":"25"
+            "hour":"22",
+            "minute":"18"
         }
     },
     "service1.Ship":
@@ -135,28 +164,28 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"12865"
+        "weight":"10578"
     },
     "service1.Time":
     {
-        "hour":"10",
-        "minute":"43"
+        "hour":"8",
+        "minute":"48"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"4",
+        "day":"1",
         "service1.Time":
         {
-            "hour":"3",
-            "minute":"55"
+            "hour":"22",
+            "minute":"35"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship8"
+        "name":"Ship3"
     },
     "service1.Good":
     {
@@ -164,23 +193,23 @@
         {
             "typeDescription":"container"
         },
-        "weight":"17669"
+        "weight":"8577"
     },
     "service1.Time":
     {
-        "hour":"21",
-        "minute":"2"
+        "hour":"10",
+        "minute":"12"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"4",
+        "day":"1",
         "service1.Time":
         {
-            "hour":"8",
-            "minute":"36"
+            "hour":"22",
+            "minute":"42"
         }
     },
     "service1.Ship":
@@ -191,54 +220,25 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
+            "typeDescription":"container"
         },
-        "weight":"14318"
+        "weight":"17728"
     },
     "service1.Time":
     {
-        "hour":"11",
-        "minute":"55"
+        "hour":"21",
+        "minute":"6"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"4",
+        "day":"2",
         "service1.Time":
         {
-            "hour":"10",
-            "minute":"17"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship11"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"17526"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"36"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"4",
-        "service1.Time":
-        {
-            "hour":"17",
-            "minute":"12"
+            "hour":"5",
+            "minute":"1"
         }
     },
     "service1.Ship":
@@ -251,52 +251,23 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"25613"
+        "weight":"24496"
     },
     "service1.Time":
     {
-        "hour":"14",
-        "minute":"13"
+        "hour":"13",
+        "minute":"36"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"4",
+        "day":"2",
         "service1.Time":
         {
-            "hour":"18",
-            "minute":"56"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship6"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"11733"
-    },
-    "service1.Time":
-    {
-        "hour":"9",
-        "minute":"46"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"4",
-        "service1.Time":
-        {
-            "hour":"22",
-            "minute":"27"
+            "hour":"13",
+            "minute":"25"
         }
     },
     "service1.Ship":
@@ -307,25 +278,25 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
+            "typeDescription":"liquid"
         },
-        "weight":"11540"
+        "weight":"24227"
     },
     "service1.Time":
     {
-        "hour":"9",
-        "minute":"37"
+        "hour":"13",
+        "minute":"27"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"5",
+        "day":"3",
         "service1.Time":
         {
             "hour":"3",
-            "minute":"3"
+            "minute":"47"
         }
     },
     "service1.Ship":
@@ -336,25 +307,112 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
+            "typeDescription":"liquid"
         },
-        "weight":"16460"
+        "weight":"20225"
     },
     "service1.Time":
     {
-        "hour":"13",
-        "minute":"43"
+        "hour":"11",
+        "minute":"14"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"5",
+        "day":"3",
         "service1.Time":
         {
-            "hour":"3",
-            "minute":"39"
+            "hour":"5",
+            "minute":"5"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship12"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"19785"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"59"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"3",
+        "service1.Time":
+        {
+            "hour":"19",
+            "minute":"55"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship11"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"22281"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"22"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"4",
+        "service1.Time":
+        {
+            "hour":"4",
+            "minute":"37"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship15"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"11991"
+    },
+    "service1.Time":
+    {
+        "hour":"9",
+        "minute":"59"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"4",
+        "service1.Time":
+        {
+            "hour":"22",
+            "minute":"47"
         }
     },
     "service1.Ship":
@@ -367,12 +425,12 @@
         {
             "typeDescription":"container"
         },
-        "weight":"9533"
+        "weight":"4437"
     },
     "service1.Time":
     {
-        "hour":"11",
-        "minute":"20"
+        "hour":"5",
+        "minute":"16"
     }
 }
 "service1.PortEntity"
@@ -382,66 +440,8 @@
         "day":"5",
         "service1.Time":
         {
-            "hour":"9",
-            "minute":"36"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship16"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"10559"
-    },
-    "service1.Time":
-    {
-        "hour":"12",
-        "minute":"34"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"5",
-        "service1.Time":
-        {
-            "hour":"11",
-            "minute":"19"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship17"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"13754"
-    },
-    "service1.Time":
-    {
-        "hour":"16",
-        "minute":"22"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"5",
-        "service1.Time":
-        {
-            "hour":"15",
-            "minute":"19"
+            "hour":"4",
+            "minute":"44"
         }
     },
     "service1.Ship":
@@ -452,14 +452,72 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"container"
+            "typeDescription":"dry"
         },
-        "weight":"12929"
+        "weight":"12193"
     },
     "service1.Time":
     {
-        "hour":"15",
-        "minute":"23"
+        "hour":"10",
+        "minute":"9"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"5",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"15"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship17"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"20165"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"12"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"5",
+        "service1.Time":
+        {
+            "hour":"10",
+            "minute":"35"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship20"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"8442"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"3"
     }
 }
 "service1.PortEntity"
@@ -470,20 +528,78 @@
         "service1.Time":
         {
             "hour":"17",
-            "minute":"32"
+            "minute":"1"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship12"
+        "name":"Ship22"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"container"
+            "typeDescription":"liquid"
         },
-        "weight":"9623"
+        "weight":"19545"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"51"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"5",
+        "service1.Time":
+        {
+            "hour":"17",
+            "minute":"22"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship23"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"22160"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"18"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"5",
+        "service1.Time":
+        {
+            "hour":"18",
+            "minute":"58"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship16"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"13748"
     },
     "service1.Time":
     {
@@ -499,25 +615,25 @@
         "service1.Time":
         {
             "hour":"20",
-            "minute":"9"
+            "minute":"58"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship15"
+        "name":"Ship21"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"liquid"
+            "typeDescription":"container"
         },
-        "weight":"20065"
+        "weight":"13965"
     },
     "service1.Time":
     {
-        "hour":"11",
-        "minute":"8"
+        "hour":"16",
+        "minute":"37"
     }
 }
 "service1.PortEntity"
@@ -528,7 +644,7 @@
         "service1.Time":
         {
             "hour":"22",
-            "minute":"36"
+            "minute":"39"
         }
     },
     "service1.Ship":
@@ -541,12 +657,12 @@
         {
             "typeDescription":"container"
         },
-        "weight":"11919"
+        "weight":"5898"
     },
     "service1.Time":
     {
-        "hour":"14",
-        "minute":"11"
+        "hour":"7",
+        "minute":"1"
     }
 }
 "service1.PortEntity"
@@ -556,26 +672,26 @@
         "day":"6",
         "service1.Time":
         {
-            "hour":"3",
-            "minute":"1"
+            "hour":"11",
+            "minute":"39"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship20"
+        "name":"Ship26"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"liquid"
+            "typeDescription":"dry"
         },
-        "weight":"18242"
+        "weight":"10625"
     },
     "service1.Time":
     {
-        "hour":"10",
-        "minute":"8"
+        "hour":"8",
+        "minute":"51"
     }
 }
 "service1.PortEntity"
@@ -585,8 +701,8 @@
         "day":"6",
         "service1.Time":
         {
-            "hour":"4",
-            "minute":"55"
+            "hour":"17",
+            "minute":"56"
         }
     },
     "service1.Ship":
@@ -599,11 +715,11 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"16568"
+        "weight":"10563"
     },
     "service1.Time":
     {
-        "hour":"13",
+        "hour":"8",
         "minute":"48"
     }
 }
@@ -614,95 +730,8 @@
         "day":"6",
         "service1.Time":
         {
-            "hour":"7",
-            "minute":"31"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship26"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"11081"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"11"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"6",
-        "service1.Time":
-        {
-            "hour":"10",
-            "minute":"56"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship22"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"18028"
-    },
-    "service1.Time":
-    {
-        "hour":"10",
-        "minute":"0"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"6",
-        "service1.Time":
-        {
-            "hour":"10",
-            "minute":"58"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship23"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"22967"
-    },
-    "service1.Time":
-    {
-        "hour":"12",
-        "minute":"45"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"6",
-        "service1.Time":
-        {
-            "hour":"17",
-            "minute":"43"
+            "hour":"20",
+            "minute":"4"
         }
     },
     "service1.Ship":
@@ -715,41 +744,12 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"23179"
+        "weight":"22799"
     },
     "service1.Time":
     {
         "hour":"12",
-        "minute":"52"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"6",
-        "service1.Time":
-        {
-            "hour":"20",
-            "minute":"4"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship21"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"16203"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"30"
+        "minute":"39"
     }
 }
 "service1.PortEntity"
@@ -759,124 +759,8 @@
         "day":"7",
         "service1.Time":
         {
-            "hour":"2",
-            "minute":"16"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship31"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"6985"
-    },
-    "service1.Time":
-    {
-        "hour":"8",
-        "minute":"18"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"7",
-        "service1.Time":
-        {
-            "hour":"2",
-            "minute":"58"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship28"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"13592"
-    },
-    "service1.Time":
-    {
-        "hour":"16",
-        "minute":"10"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"7",
-        "service1.Time":
-        {
-            "hour":"14",
-            "minute":"16"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship30"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"10344"
-    },
-    "service1.Time":
-    {
-        "hour":"12",
-        "minute":"18"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"7",
-        "service1.Time":
-        {
-            "hour":"18",
-            "minute":"14"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship27"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"18741"
-    },
-    "service1.Time":
-    {
-        "hour":"10",
-        "minute":"24"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"7",
-        "service1.Time":
-        {
-            "hour":"21",
-            "minute":"53"
+            "hour":"1",
+            "minute":"13"
         }
     },
     "service1.Ship":
@@ -889,144 +773,28 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"14694"
+        "weight":"12694"
     },
     "service1.Time":
     {
-        "hour":"12",
-        "minute":"14"
+        "hour":"10",
+        "minute":"34"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"8",
+        "day":"7",
         "service1.Time":
         {
-            "hour":"5",
-            "minute":"26"
+            "hour":"13",
+            "minute":"10"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship37"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"15732"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"6"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"8",
-        "service1.Time":
-        {
-            "hour":"5",
-            "minute":"43"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship36"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"25521"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"10"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"8",
-        "service1.Time":
-        {
-            "hour":"7",
-            "minute":"15"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship35"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"16658"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"52"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"8",
-        "service1.Time":
-        {
-            "hour":"9",
-            "minute":"20"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship33"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"27213"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"7"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"8",
-        "service1.Time":
-        {
-            "hour":"10",
-            "minute":"20"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship40"
+        "name":"Ship27"
     },
     "service1.Good":
     {
@@ -1034,57 +802,28 @@
         {
             "typeDescription":"container"
         },
-        "weight":"15364"
+        "weight":"5990"
     },
     "service1.Time":
     {
-        "hour":"18",
-        "minute":"17"
+        "hour":"7",
+        "minute":"7"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"8",
+        "day":"7",
         "service1.Time":
         {
-            "hour":"16",
-            "minute":"36"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship39"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"21322"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"50"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"8",
-        "service1.Time":
-        {
-            "hour":"19",
+            "hour":"18",
             "minute":"4"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship38"
+        "name":"Ship30"
     },
     "service1.Good":
     {
@@ -1092,12 +831,41 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"18862"
+        "weight":"23355"
     },
     "service1.Time":
     {
-        "hour":"10",
-        "minute":"28"
+        "hour":"12",
+        "minute":"58"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"7",
+        "service1.Time":
+        {
+            "hour":"21",
+            "minute":"54"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship28"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"16067"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"23"
     }
 }
 "service1.PortEntity"
@@ -1107,8 +875,8 @@
         "day":"8",
         "service1.Time":
         {
-            "hour":"20",
-            "minute":"31"
+            "hour":"1",
+            "minute":"23"
         }
     },
     "service1.Ship":
@@ -1119,170 +887,83 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"container"
-        },
-        "weight":"13280"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"48"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"8",
-        "service1.Time":
-        {
-            "hour":"21",
-            "minute":"44"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship41"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"19389"
-    },
-    "service1.Time":
-    {
-        "hour":"16",
-        "minute":"9"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"8",
-        "service1.Time":
-        {
-            "hour":"22",
-            "minute":"56"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship34"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
             "typeDescription":"liquid"
         },
-        "weight":"27146"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"4"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"9",
-        "service1.Time":
-        {
-            "hour":"12",
-            "minute":"30"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship43"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"18270"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"13"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"9",
-        "service1.Time":
-        {
-            "hour":"13",
-            "minute":"53"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship45"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"28072"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"35"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"9",
-        "service1.Time":
-        {
-            "hour":"18",
-            "minute":"39"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship44"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"17682"
+        "weight":"16443"
     },
     "service1.Time":
     {
         "hour":"9",
-        "minute":"49"
+        "minute":"8"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"9",
+        "day":"8",
         "service1.Time":
         {
-            "hour":"19",
-            "minute":"13"
+            "hour":"8",
+            "minute":"7"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship33"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"17405"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"30"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"8",
+        "service1.Time":
+        {
+            "hour":"18",
+            "minute":"14"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship31"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"14821"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"21"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"10",
+        "service1.Time":
+        {
+            "hour":"0",
+            "minute":"25"
         }
     },
     "service1.Ship":
@@ -1295,11 +976,156 @@
         {
             "typeDescription":"container"
         },
-        "weight":"4611"
+        "weight":"17672"
     },
     "service1.Time":
     {
-        "hour":"5",
+        "hour":"21",
+        "minute":"2"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"10",
+        "service1.Time":
+        {
+            "hour":"1",
+            "minute":"39"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship40"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"12606"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"30"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"10",
+        "service1.Time":
+        {
+            "hour":"4",
+            "minute":"1"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship43"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"12349"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"17"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"10",
+        "service1.Time":
+        {
+            "hour":"4",
+            "minute":"51"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship38"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"29981"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"39"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"10",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"48"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship37"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"15513"
+    },
+    "service1.Time":
+    {
+        "hour":"18",
+        "minute":"28"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"10",
+        "service1.Time":
+        {
+            "hour":"9",
+            "minute":"2"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship34"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"14989"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
         "minute":"29"
     }
 }
@@ -1310,66 +1136,124 @@
         "day":"10",
         "service1.Time":
         {
-            "hour":"7",
-            "minute":"51"
+            "hour":"10",
+            "minute":"2"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship46"
+        "name":"Ship39"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"liquid"
+            "typeDescription":"dry"
         },
-        "weight":"16935"
-    },
-    "service1.Time":
-    {
-        "hour":"9",
-        "minute":"24"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"12",
-        "service1.Time":
-        {
-            "hour":"15",
-            "minute":"54"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship47"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"28812"
+        "weight":"19560"
     },
     "service1.Time":
     {
         "hour":"16",
-        "minute":"0"
+        "minute":"18"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"13",
+        "day":"10",
         "service1.Time":
         {
-            "hour":"1",
-            "minute":"30"
+            "hour":"12",
+            "minute":"45"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship36"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"26549"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"44"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"10",
+        "service1.Time":
+        {
+            "hour":"14",
+            "minute":"10"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship35"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"11795"
+    },
+    "service1.Time":
+    {
+        "hour":"9",
+        "minute":"49"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"10",
+        "service1.Time":
+        {
+            "hour":"18",
+            "minute":"20"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship41"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"17217"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"20"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"11",
+        "service1.Time":
+        {
+            "hour":"13",
+            "minute":"15"
         }
     },
     "service1.Ship":
@@ -1380,25 +1264,286 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"container"
+            "typeDescription":"liquid"
         },
-        "weight":"12795"
+        "weight":"19575"
     },
     "service1.Time":
     {
-        "hour":"15",
-        "minute":"13"
+        "hour":"10",
+        "minute":"52"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"14",
+        "day":"11",
         "service1.Time":
         {
-            "hour":"2",
-            "minute":"40"
+            "hour":"13",
+            "minute":"31"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship45"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"23501"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"3"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"11",
+        "service1.Time":
+        {
+            "hour":"15",
+            "minute":"13"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship47"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"15749"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"7"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"11",
+        "service1.Time":
+        {
+            "hour":"16",
+            "minute":"32"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship46"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"13144"
+    },
+    "service1.Time":
+    {
+        "hour":"15",
+        "minute":"38"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"11",
+        "service1.Time":
+        {
+            "hour":"20",
+            "minute":"53"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship44"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"16017"
+    },
+    "service1.Time":
+    {
+        "hour":"8",
+        "minute":"53"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"11",
+        "service1.Time":
+        {
+            "hour":"22",
+            "minute":"16"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship49"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"15496"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"54"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"12",
+        "service1.Time":
+        {
+            "hour":"6",
+            "minute":"7"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship53"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"20941"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"38"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"12",
+        "service1.Time":
+        {
+            "hour":"7",
+            "minute":"49"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship58"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"23688"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"9"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"12",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"9"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship50"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"16111"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"25"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"12",
+        "service1.Time":
+        {
+            "hour":"10",
+            "minute":"32"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship59"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"16904"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"5"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"12",
+        "service1.Time":
+        {
+            "hour":"11",
+            "minute":"25"
         }
     },
     "service1.Ship":
@@ -1409,13 +1554,13 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
+            "typeDescription":"liquid"
         },
-        "weight":"14424"
+        "weight":"18040"
     },
     "service1.Time":
     {
-        "hour":"12",
+        "hour":"10",
         "minute":"1"
     }
 }
@@ -1423,40 +1568,11 @@
 {
     "service1.Date":
     {
-        "day":"14",
+        "day":"12",
         "service1.Time":
         {
-            "hour":"3",
-            "minute":"34"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship57"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"8441"
-    },
-    "service1.Time":
-    {
-        "hour":"10",
-        "minute":"2"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"14",
-        "service1.Time":
-        {
-            "hour":"3",
-            "minute":"50"
+            "hour":"12",
+            "minute":"0"
         }
     },
     "service1.Ship":
@@ -1467,25 +1583,54 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"liquid"
+            "typeDescription":"dry"
         },
-        "weight":"29920"
+        "weight":"13642"
     },
     "service1.Time":
     {
-        "hour":"16",
-        "minute":"37"
+        "hour":"11",
+        "minute":"22"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"14",
+        "day":"12",
         "service1.Time":
         {
-            "hour":"11",
-            "minute":"40"
+            "hour":"13",
+            "minute":"46"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship56"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"21025"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"40"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"12",
+        "service1.Time":
+        {
+            "hour":"15",
+            "minute":"48"
         }
     },
     "service1.Ship":
@@ -1498,52 +1643,23 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"29701"
+        "weight":"29857"
     },
     "service1.Time":
     {
         "hour":"16",
-        "minute":"30"
+        "minute":"35"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"14",
+        "day":"12",
         "service1.Time":
         {
-            "hour":"13",
-            "minute":"44"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship53"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"14371"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"58"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"14",
-        "service1.Time":
-        {
-            "hour":"14",
-            "minute":"7"
+            "hour":"16",
+            "minute":"18"
         }
     },
     "service1.Ship":
@@ -1554,43 +1670,43 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"container"
+            "typeDescription":"dry"
         },
-        "weight":"13148"
+        "weight":"10852"
     },
     "service1.Time":
     {
-        "hour":"15",
-        "minute":"39"
+        "hour":"9",
+        "minute":"2"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"14",
+        "day":"12",
         "service1.Time":
         {
-            "hour":"17",
+            "hour":"22",
             "minute":"19"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship49"
+        "name":"Ship57"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"liquid"
+            "typeDescription":"dry"
         },
-        "weight":"24258"
+        "weight":"12712"
     },
     "service1.Time":
     {
-        "hour":"13",
-        "minute":"28"
+        "hour":"10",
+        "minute":"35"
     }
 }
 "service1.PortEntity"
@@ -1600,13 +1716,13 @@
         "day":"14",
         "service1.Time":
         {
-            "hour":"21",
+            "hour":"0",
             "minute":"40"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship56"
+        "name":"Ship63"
     },
     "service1.Good":
     {
@@ -1614,12 +1730,12 @@
         {
             "typeDescription":"container"
         },
-        "weight":"15375"
+        "weight":"11002"
     },
     "service1.Time":
     {
-        "hour":"18",
-        "minute":"18"
+        "hour":"13",
+        "minute":"5"
     }
 }
 "service1.PortEntity"
@@ -1629,13 +1745,100 @@
         "day":"14",
         "service1.Time":
         {
-            "hour":"21",
-            "minute":"47"
+            "hour":"0",
+            "minute":"54"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship50"
+        "name":"Ship61"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"17940"
+    },
+    "service1.Time":
+    {
+        "hour":"21",
+        "minute":"21"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"14",
+        "service1.Time":
+        {
+            "hour":"3",
+            "minute":"11"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship66"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"13511"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"5"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"14",
+        "service1.Time":
+        {
+            "hour":"7",
+            "minute":"15"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship65"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"16492"
+    },
+    "service1.Time":
+    {
+        "hour":"19",
+        "minute":"38"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"14",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"32"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship64"
     },
     "service1.Good":
     {
@@ -1643,12 +1846,157 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"21271"
+        "weight":"22742"
     },
     "service1.Time":
     {
-        "hour":"11",
-        "minute":"49"
+        "hour":"12",
+        "minute":"38"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"14",
+        "service1.Time":
+        {
+            "hour":"9",
+            "minute":"0"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship60"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"17912"
+    },
+    "service1.Time":
+    {
+        "hour":"21",
+        "minute":"19"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"14",
+        "service1.Time":
+        {
+            "hour":"15",
+            "minute":"30"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship62"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"18686"
+    },
+    "service1.Time":
+    {
+        "hour":"15",
+        "minute":"34"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"15",
+        "service1.Time":
+        {
+            "hour":"0",
+            "minute":"35"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship73"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"6089"
+    },
+    "service1.Time":
+    {
+        "hour":"7",
+        "minute":"14"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"15",
+        "service1.Time":
+        {
+            "hour":"3",
+            "minute":"11"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship74"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"13928"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"34"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"15",
+        "service1.Time":
+        {
+            "hour":"4",
+            "minute":"40"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship75"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"15203"
+    },
+    "service1.Time":
+    {
+        "hour":"18",
+        "minute":"5"
     }
 }
 "service1.PortEntity"
@@ -1664,118 +2012,31 @@
     },
     "service1.Ship":
     {
-        "name":"Ship58"
+        "name":"Ship68"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"liquid"
+            "typeDescription":"container"
         },
-        "weight":"19274"
+        "weight":"17298"
     },
     "service1.Time":
     {
-        "hour":"10",
-        "minute":"42"
+        "hour":"20",
+        "minute":"35"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"16",
+        "day":"15",
         "service1.Time":
         {
-            "hour":"0",
-            "minute":"32"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship60"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"23952"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"18"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"16",
-        "service1.Time":
-        {
-            "hour":"6",
-            "minute":"9"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship59"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"18575"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"28"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"17",
-        "service1.Time":
-        {
-            "hour":"0",
-            "minute":"22"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship63"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"26062"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"28"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"17",
-        "service1.Time":
-        {
-            "hour":"2",
-            "minute":"2"
+            "hour":"8",
+            "minute":"0"
         }
     },
     "service1.Ship":
@@ -1788,28 +2049,57 @@
         {
             "typeDescription":"container"
         },
-        "weight":"12196"
+        "weight":"11665"
     },
     "service1.Time":
     {
-        "hour":"14",
-        "minute":"31"
+        "hour":"13",
+        "minute":"53"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"17",
+        "day":"15",
         "service1.Time":
         {
-            "hour":"4",
-            "minute":"26"
+            "hour":"9",
+            "minute":"23"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship65"
+        "name":"Ship69"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"15278"
+    },
+    "service1.Time":
+    {
+        "hour":"18",
+        "minute":"11"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"15",
+        "service1.Time":
+        {
+            "hour":"10",
+            "minute":"45"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship72"
     },
     "service1.Good":
     {
@@ -1817,23 +2107,23 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"17821"
+        "weight":"14247"
     },
     "service1.Time":
     {
-        "hour":"14",
-        "minute":"51"
+        "hour":"11",
+        "minute":"52"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"17",
+        "day":"15",
         "service1.Time":
         {
-            "hour":"4",
-            "minute":"40"
+            "hour":"11",
+            "minute":"53"
         }
     },
     "service1.Ship":
@@ -1846,57 +2136,28 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"16491"
+        "weight":"11586"
     },
     "service1.Time":
     {
-        "hour":"13",
-        "minute":"44"
+        "hour":"9",
+        "minute":"39"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"17",
+        "day":"15",
         "service1.Time":
         {
-            "hour":"7",
-            "minute":"58"
+            "hour":"13",
+            "minute":"54"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship69"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"16186"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"29"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"17",
-        "service1.Time":
-        {
-            "hour":"12",
-            "minute":"21"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship62"
+        "name":"Ship71"
     },
     "service1.Good":
     {
@@ -1904,168 +2165,23 @@
         {
             "typeDescription":"container"
         },
-        "weight":"5238"
+        "weight":"17547"
     },
     "service1.Time":
     {
-        "hour":"6",
-        "minute":"14"
+        "hour":"20",
+        "minute":"53"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"17",
+        "day":"15",
         "service1.Time":
         {
-            "hour":"14",
-            "minute":"42"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship64"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"4079"
-    },
-    "service1.Time":
-    {
-        "hour":"4",
-        "minute":"51"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"17",
-        "service1.Time":
-        {
-            "hour":"16",
-            "minute":"12"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship61"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"11592"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"48"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"17",
-        "service1.Time":
-        {
-            "hour":"17",
-            "minute":"26"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship68"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"29145"
-    },
-    "service1.Time":
-    {
-        "hour":"16",
-        "minute":"11"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"17",
-        "service1.Time":
-        {
-            "hour":"21",
-            "minute":"26"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship66"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"14174"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"48"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"18",
-        "service1.Time":
-        {
-            "hour":"0",
-            "minute":"9"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship72"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"20077"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"9"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"18",
-        "service1.Time":
-        {
-            "hour":"1",
-            "minute":"36"
+            "hour":"20",
+            "minute":"38"
         }
     },
     "service1.Ship":
@@ -2078,81 +2194,23 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"11328"
+        "weight":"12181"
     },
     "service1.Time":
     {
-        "hour":"9",
-        "minute":"26"
+        "hour":"10",
+        "minute":"9"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"18",
+        "day":"16",
         "service1.Time":
         {
             "hour":"3",
-            "minute":"46"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship74"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"13331"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"6"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"18",
-        "service1.Time":
-        {
-            "hour":"7",
-            "minute":"29"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship77"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"12026"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"19"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"18",
-        "service1.Time":
-        {
-            "hour":"8",
-            "minute":"10"
+            "minute":"44"
         }
     },
     "service1.Ship":
@@ -2163,141 +2221,54 @@
     {
         "service1.TypesOfGoods":
         {
+            "typeDescription":"container"
+        },
+        "weight":"16376"
+    },
+    "service1.Time":
+    {
+        "hour":"19",
+        "minute":"29"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"16",
+        "service1.Time":
+        {
+            "hour":"13",
+            "minute":"46"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship77"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
             "typeDescription":"dry"
         },
-        "weight":"16056"
+        "weight":"15689"
     },
     "service1.Time":
     {
         "hour":"13",
-        "minute":"22"
+        "minute":"4"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"18",
+        "day":"17",
         "service1.Time":
         {
-            "hour":"10",
-            "minute":"44"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship75"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"15195"
-    },
-    "service1.Time":
-    {
-        "hour":"12",
-        "minute":"39"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"18",
-        "service1.Time":
-        {
-            "hour":"14",
-            "minute":"45"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship71"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"17532"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"36"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"18",
-        "service1.Time":
-        {
-            "hour":"16",
+            "hour":"2",
             "minute":"50"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship73"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"11553"
-    },
-    "service1.Time":
-    {
-        "hour":"9",
-        "minute":"37"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"18",
-        "service1.Time":
-        {
-            "hour":"21",
-            "minute":"35"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship79"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"26803"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"53"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"19",
-        "service1.Time":
-        {
-            "hour":"1",
-            "minute":"53"
         }
     },
     "service1.Ship":
@@ -2310,313 +2281,23 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"15867"
+        "weight":"11718"
     },
     "service1.Time":
     {
-        "hour":"13",
-        "minute":"13"
+        "hour":"9",
+        "minute":"45"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"19",
+        "day":"17",
         "service1.Time":
         {
-            "hour":"13",
-            "minute":"37"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship81"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"17582"
-    },
-    "service1.Time":
-    {
-        "hour":"20",
-        "minute":"55"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"19",
-        "service1.Time":
-        {
-            "hour":"17",
-            "minute":"45"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship82"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"4618"
-    },
-    "service1.Time":
-    {
-        "hour":"5",
-        "minute":"29"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"2",
-            "minute":"8"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship85"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"25907"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"23"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"3",
-            "minute":"19"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship92"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"18983"
-    },
-    "service1.Time":
-    {
-        "hour":"10",
-        "minute":"32"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"11",
-            "minute":"25"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship89"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"12472"
-    },
-    "service1.Time":
-    {
-        "hour":"10",
-        "minute":"23"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"12",
-            "minute":"0"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship87"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"13799"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"29"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"13",
-            "minute":"2"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship84"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"18178"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"8"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"13",
-            "minute":"23"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship88"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"28251"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"41"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"14",
-            "minute":"17"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship90"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"11036"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"8"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"17",
-            "minute":"4"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship86"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"20212"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"13"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"20",
-        "service1.Time":
-        {
-            "hour":"20",
-            "minute":"40"
+            "hour":"5",
+            "minute":"24"
         }
     },
     "service1.Ship":
@@ -2629,40 +2310,127 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"10532"
+        "weight":"19730"
     },
     "service1.Time":
     {
-        "hour":"8",
-        "minute":"46"
+        "hour":"16",
+        "minute":"26"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"20",
+        "day":"17",
         "service1.Time":
         {
-            "hour":"20",
-            "minute":"42"
+            "hour":"11",
+            "minute":"50"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship91"
+        "name":"Ship82"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
+            "typeDescription":"liquid"
         },
-        "weight":"17818"
+        "weight":"28326"
     },
     "service1.Time":
     {
-        "hour":"14",
+        "hour":"15",
+        "minute":"44"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"17",
+        "service1.Time":
+        {
+            "hour":"13",
+            "minute":"34"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship79"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"22919"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"43"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"17",
+        "service1.Time":
+        {
+            "hour":"21",
+            "minute":"43"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship81"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"15690"
+    },
+    "service1.Time":
+    {
+        "hour":"8",
+        "minute":"43"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"18",
+        "service1.Time":
+        {
+            "hour":"2",
+            "minute":"48"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship86"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"15912"
+    },
+    "service1.Time":
+    {
+        "hour":"8",
         "minute":"50"
     }
 }
@@ -2670,11 +2438,156 @@
 {
     "service1.Date":
     {
-        "day":"21",
+        "day":"18",
         "service1.Time":
         {
-            "hour":"5",
-            "minute":"31"
+            "hour":"8",
+            "minute":"43"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship88"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"13675"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"23"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"18",
+        "service1.Time":
+        {
+            "hour":"12",
+            "minute":"5"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship87"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"24926"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"50"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"18",
+        "service1.Time":
+        {
+            "hour":"12",
+            "minute":"9"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship85"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"9900"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"47"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"18",
+        "service1.Time":
+        {
+            "hour":"17",
+            "minute":"54"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship84"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"11452"
+    },
+    "service1.Time":
+    {
+        "hour":"9",
+        "minute":"32"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"19",
+        "service1.Time":
+        {
+            "hour":"1",
+            "minute":"26"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship92"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"25549"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"11"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"19",
+        "service1.Time":
+        {
+            "hour":"1",
+            "minute":"27"
         }
     },
     "service1.Ship":
@@ -2687,23 +2600,81 @@
         {
             "typeDescription":"container"
         },
-        "weight":"11937"
+        "weight":"12226"
     },
     "service1.Time":
     {
         "hour":"14",
-        "minute":"12"
+        "minute":"33"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"21",
+        "day":"19",
         "service1.Time":
         {
-            "hour":"13",
-            "minute":"49"
+            "hour":"15",
+            "minute":"27"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship91"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"13821"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"31"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"19",
+        "service1.Time":
+        {
+            "hour":"17",
+            "minute":"16"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship89"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"19206"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"0"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"19",
+        "service1.Time":
+        {
+            "hour":"17",
+            "minute":"52"
         }
     },
     "service1.Ship":
@@ -2714,83 +2685,54 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
-        },
-        "weight":"13764"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"28"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"22",
-        "service1.Time":
-        {
-            "hour":"1",
-            "minute":"37"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship95"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
             "typeDescription":"container"
         },
-        "weight":"11910"
+        "weight":"5809"
     },
     "service1.Time":
     {
-        "hour":"14",
-        "minute":"10"
+        "hour":"6",
+        "minute":"54"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"22",
+        "day":"19",
         "service1.Time":
         {
-            "hour":"18",
-            "minute":"27"
+            "hour":"19",
+            "minute":"46"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship96"
+        "name":"Ship90"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
+            "typeDescription":"liquid"
         },
-        "weight":"14874"
+        "weight":"29422"
     },
     "service1.Time":
     {
-        "hour":"12",
-        "minute":"23"
+        "hour":"16",
+        "minute":"20"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"23",
+        "day":"20",
         "service1.Time":
         {
-            "hour":"2",
-            "minute":"28"
+            "hour":"4",
+            "minute":"58"
         }
     },
     "service1.Ship":
@@ -2801,54 +2743,25 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"container"
-        },
-        "weight":"6655"
-    },
-    "service1.Time":
-    {
-        "hour":"7",
-        "minute":"55"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"23",
-        "service1.Time":
-        {
-            "hour":"6",
-            "minute":"40"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship99"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
             "typeDescription":"liquid"
         },
-        "weight":"23272"
+        "weight":"21341"
     },
     "service1.Time":
     {
-        "hour":"12",
-        "minute":"55"
+        "hour":"11",
+        "minute":"51"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"23",
+        "day":"20",
         "service1.Time":
         {
-            "hour":"14",
-            "minute":"21"
+            "hour":"5",
+            "minute":"25"
         }
     },
     "service1.Ship":
@@ -2861,23 +2774,139 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"19208"
+        "weight":"29950"
     },
     "service1.Time":
     {
-        "hour":"10",
-        "minute":"40"
+        "hour":"16",
+        "minute":"38"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"25",
+        "day":"20",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"15"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship95"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"16705"
+    },
+    "service1.Time":
+    {
+        "hour":"19",
+        "minute":"53"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"20",
         "service1.Time":
         {
             "hour":"19",
-            "minute":"51"
+            "minute":"50"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship99"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"26905"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"56"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"20",
+        "service1.Time":
+        {
+            "hour":"20",
+            "minute":"4"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship96"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"4756"
+    },
+    "service1.Time":
+    {
+        "hour":"5",
+        "minute":"39"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"21",
+        "service1.Time":
+        {
+            "hour":"0",
+            "minute":"16"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship101"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"16114"
+    },
+    "service1.Time":
+    {
+        "hour":"19",
+        "minute":"11"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"21",
+        "service1.Time":
+        {
+            "hour":"4",
+            "minute":"12"
         }
     },
     "service1.Ship":
@@ -2888,25 +2917,83 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"dry"
+            "typeDescription":"container"
         },
-        "weight":"18451"
+        "weight":"7774"
     },
     "service1.Time":
     {
-        "hour":"15",
-        "minute":"22"
+        "hour":"9",
+        "minute":"15"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"26",
+        "day":"21",
         "service1.Time":
         {
-            "hour":"2",
-            "minute":"8"
+            "hour":"5",
+            "minute":"18"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship103"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"16290"
+    },
+    "service1.Time":
+    {
+        "hour":"19",
+        "minute":"23"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"21",
+        "service1.Time":
+        {
+            "hour":"7",
+            "minute":"23"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship102"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"27739"
+    },
+    "service1.Time":
+    {
+        "hour":"15",
+        "minute":"24"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"21",
+        "service1.Time":
+        {
+            "hour":"9",
+            "minute":"27"
         }
     },
     "service1.Ship":
@@ -2917,25 +3004,54 @@
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"liquid"
+            "typeDescription":"container"
         },
-        "weight":"15842"
+        "weight":"8700"
     },
     "service1.Time":
     {
-        "hour":"8",
-        "minute":"48"
+        "hour":"10",
+        "minute":"21"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"26",
+        "day":"22",
         "service1.Time":
         {
-            "hour":"8",
-            "minute":"12"
+            "hour":"1",
+            "minute":"17"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship107"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"9096"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"49"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"22",
+        "service1.Time":
+        {
+            "hour":"6",
+            "minute":"41"
         }
     },
     "service1.Ship":
@@ -2948,110 +3064,23 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"16230"
+        "weight":"17274"
     },
     "service1.Time":
     {
-        "hour":"13",
-        "minute":"31"
+        "hour":"14",
+        "minute":"23"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"26",
+        "day":"22",
         "service1.Time":
         {
-            "hour":"9",
-            "minute":"50"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship102"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"11497"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"41"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"26",
-        "service1.Time":
-        {
-            "hour":"13",
-            "minute":"30"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship107"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"27006"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"0"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"26",
-        "service1.Time":
-        {
-            "hour":"14",
-            "minute":"58"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship103"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"19159"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"57"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"26",
-        "service1.Time":
-        {
-            "hour":"18",
-            "minute":"29"
+            "hour":"7",
+            "minute":"20"
         }
     },
     "service1.Ship":
@@ -3064,139 +3093,52 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"20570"
+        "weight":"20522"
     },
     "service1.Time":
     {
         "hour":"11",
-        "minute":"25"
+        "minute":"24"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"26",
+        "day":"22",
         "service1.Time":
         {
-            "hour":"19",
-            "minute":"17"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship101"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"25459"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"8"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"27",
-        "service1.Time":
-        {
-            "hour":"3",
-            "minute":"38"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship117"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"10016"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"55"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"27",
-        "service1.Time":
-        {
-            "hour":"4",
+            "hour":"13",
             "minute":"41"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship114"
+        "name":"Ship109"
     },
     "service1.Good":
     {
         "service1.TypesOfGoods":
         {
-            "typeDescription":"container"
+            "typeDescription":"dry"
         },
-        "weight":"13771"
+        "weight":"17218"
     },
     "service1.Time":
     {
-        "hour":"16",
-        "minute":"23"
+        "hour":"14",
+        "minute":"20"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"27",
+        "day":"22",
         "service1.Time":
         {
-            "hour":"5",
-            "minute":"2"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship113"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"16029"
-    },
-    "service1.Time":
-    {
-        "hour":"19",
-        "minute":"4"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"27",
-        "service1.Time":
-        {
-            "hour":"5",
-            "minute":"30"
+            "hour":"21",
+            "minute":"41"
         }
     },
     "service1.Ship":
@@ -3209,52 +3151,23 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"13680"
+        "weight":"14255"
     },
     "service1.Time":
     {
         "hour":"11",
-        "minute":"24"
+        "minute":"52"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"27",
+        "day":"23",
         "service1.Time":
         {
-            "hour":"8",
-            "minute":"24"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship112"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"17329"
-    },
-    "service1.Time":
-    {
-        "hour":"9",
-        "minute":"37"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"27",
-        "service1.Time":
-        {
-            "hour":"12",
-            "minute":"4"
+            "hour":"0",
+            "minute":"9"
         }
     },
     "service1.Ship":
@@ -3267,23 +3180,168 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"12793"
+        "weight":"14200"
     },
     "service1.Time":
     {
-        "hour":"10",
-        "minute":"39"
+        "hour":"11",
+        "minute":"50"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"27",
+        "day":"23",
+        "service1.Time":
+        {
+            "hour":"5",
+            "minute":"24"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship118"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"19548"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"17"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"23",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"7"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship115"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"13201"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"0"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"23",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"24"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship119"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"26284"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"36"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"23",
+        "service1.Time":
+        {
+            "hour":"12",
+            "minute":"4"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship113"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"7698"
+    },
+    "service1.Time":
+    {
+        "hour":"9",
+        "minute":"9"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"23",
         "service1.Time":
         {
             "hour":"13",
             "minute":"9"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship117"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"17205"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"20"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"23",
+        "service1.Time":
+        {
+            "hour":"13",
+            "minute":"48"
         }
     },
     "service1.Ship":
@@ -3296,23 +3354,81 @@
         {
             "typeDescription":"container"
         },
-        "weight":"15588"
+        "weight":"6603"
     },
     "service1.Time":
     {
-        "hour":"18",
-        "minute":"33"
+        "hour":"7",
+        "minute":"51"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"27",
+        "day":"23",
         "service1.Time":
         {
             "hour":"15",
-            "minute":"39"
+            "minute":"24"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship112"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"4884"
+    },
+    "service1.Time":
+    {
+        "hour":"5",
+        "minute":"48"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"23",
+        "service1.Time":
+        {
+            "hour":"21",
+            "minute":"22"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship114"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"17340"
+    },
+    "service1.Time":
+    {
+        "hour":"20",
+        "minute":"38"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"23",
+        "service1.Time":
+        {
+            "hour":"22",
+            "minute":"14"
         }
     },
     "service1.Ship":
@@ -3323,9 +3439,357 @@
     {
         "service1.TypesOfGoods":
         {
+            "typeDescription":"container"
+        },
+        "weight":"15845"
+    },
+    "service1.Time":
+    {
+        "hour":"18",
+        "minute":"51"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"24",
+        "service1.Time":
+        {
+            "hour":"0",
+            "minute":"49"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship120"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
             "typeDescription":"liquid"
         },
-        "weight":"16248"
+        "weight":"28686"
+    },
+    "service1.Time":
+    {
+        "hour":"15",
+        "minute":"56"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"24",
+        "service1.Time":
+        {
+            "hour":"4",
+            "minute":"32"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship121"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"16198"
+    },
+    "service1.Time":
+    {
+        "hour":"19",
+        "minute":"17"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"24",
+        "service1.Time":
+        {
+            "hour":"10",
+            "minute":"31"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship122"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"19315"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"5"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"24",
+        "service1.Time":
+        {
+            "hour":"16",
+            "minute":"46"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship124"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"11734"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"58"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"24",
+        "service1.Time":
+        {
+            "hour":"18",
+            "minute":"17"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship123"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"23323"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"57"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"25",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"28"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship125"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"21405"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"53"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"25",
+        "service1.Time":
+        {
+            "hour":"16",
+            "minute":"0"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship126"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"28286"
+    },
+    "service1.Time":
+    {
+        "hour":"15",
+        "minute":"42"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"25",
+        "service1.Time":
+        {
+            "hour":"16",
+            "minute":"2"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship127"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"14157"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"51"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"26",
+        "service1.Time":
+        {
+            "hour":"4",
+            "minute":"53"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship130"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"15899"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"14"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"26",
+        "service1.Time":
+        {
+            "hour":"19",
+            "minute":"18"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship129"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"14175"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"52"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"26",
+        "service1.Time":
+        {
+            "hour":"21",
+            "minute":"33"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship128"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"15722"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"6"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"27",
+        "service1.Time":
+        {
+            "hour":"1",
+            "minute":"21"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship131"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"10825"
     },
     "service1.Time":
     {
@@ -3340,13 +3804,13 @@
         "day":"27",
         "service1.Time":
         {
-            "hour":"19",
-            "minute":"50"
+            "hour":"1",
+            "minute":"47"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship115"
+        "name":"Ship138"
     },
     "service1.Good":
     {
@@ -3354,12 +3818,12 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"24511"
+        "weight":"29635"
     },
     "service1.Time":
     {
-        "hour":"13",
-        "minute":"37"
+        "hour":"16",
+        "minute":"27"
     }
 }
 "service1.PortEntity"
@@ -3369,42 +3833,13 @@
         "day":"27",
         "service1.Time":
         {
-            "hour":"22",
-            "minute":"54"
+            "hour":"12",
+            "minute":"2"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship109"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"13581"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"19"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"28",
-        "service1.Time":
-        {
-            "hour":"1",
-            "minute":"19"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship120"
+        "name":"Ship136"
     },
     "service1.Good":
     {
@@ -3412,11 +3847,11 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"15816"
+        "weight":"19439"
     },
     "service1.Time":
     {
-        "hour":"8",
+        "hour":"10",
         "minute":"47"
     }
 }
@@ -3424,330 +3859,11 @@
 {
     "service1.Date":
     {
-        "day":"28",
-        "service1.Time":
-        {
-            "hour":"2",
-            "minute":"44"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship122"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"12919"
-    },
-    "service1.Time":
-    {
-        "hour":"15",
-        "minute":"22"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"28",
-        "service1.Time":
-        {
-            "hour":"4",
-            "minute":"55"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship123"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"5217"
-    },
-    "service1.Time":
-    {
-        "hour":"6",
-        "minute":"12"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"28",
-        "service1.Time":
-        {
-            "hour":"8",
-            "minute":"49"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship124"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"15683"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"4"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"28",
+        "day":"27",
         "service1.Time":
         {
             "hour":"13",
-            "minute":"37"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship119"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"26403"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"40"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"28",
-        "service1.Time":
-        {
-            "hour":"14",
-            "minute":"39"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship125"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"21359"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"51"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"28",
-        "service1.Time":
-        {
-            "hour":"15",
-            "minute":"19"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship121"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"20103"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"10"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"28",
-        "service1.Time":
-        {
-            "hour":"17",
-            "minute":"55"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship118"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"19473"
-    },
-    "service1.Time":
-    {
-        "hour":"10",
-        "minute":"49"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"29",
-        "service1.Time":
-        {
-            "hour":"0",
-            "minute":"5"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship132"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"17074"
-    },
-    "service1.Time":
-    {
-        "hour":"9",
-        "minute":"29"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"29",
-        "service1.Time":
-        {
-            "hour":"1",
-            "minute":"40"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship130"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"6164"
-    },
-    "service1.Time":
-    {
-        "hour":"7",
-        "minute":"20"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"29",
-        "service1.Time":
-        {
-            "hour":"10",
-            "minute":"20"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship126"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"dry"
-        },
-        "weight":"12428"
-    },
-    "service1.Time":
-    {
-        "hour":"10",
-        "minute":"21"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"29",
-        "service1.Time":
-        {
-            "hour":"10",
-            "minute":"46"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship133"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"21485"
-    },
-    "service1.Time":
-    {
-        "hour":"11",
-        "minute":"56"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"29",
-        "service1.Time":
-        {
-            "hour":"12",
-            "minute":"38"
+            "minute":"32"
         }
     },
     "service1.Ship":
@@ -3760,57 +3876,28 @@
         {
             "typeDescription":"dry"
         },
-        "weight":"13767"
+        "weight":"15166"
     },
     "service1.Time":
     {
-        "hour":"11",
-        "minute":"28"
+        "hour":"12",
+        "minute":"38"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"29",
+        "day":"27",
         "service1.Time":
         {
-            "hour":"12",
-            "minute":"46"
+            "hour":"13",
+            "minute":"32"
         }
     },
     "service1.Ship":
     {
-        "name":"Ship129"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"14626"
-    },
-    "service1.Time":
-    {
-        "hour":"17",
-        "minute":"24"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"29",
-        "service1.Time":
-        {
-            "hour":"15",
-            "minute":"33"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship127"
+        "name":"Ship139"
     },
     "service1.Good":
     {
@@ -3818,81 +3905,23 @@
         {
             "typeDescription":"liquid"
         },
-        "weight":"26803"
+        "weight":"23310"
     },
     "service1.Time":
     {
-        "hour":"14",
-        "minute":"53"
+        "hour":"12",
+        "minute":"57"
     }
 }
 "service1.PortEntity"
 {
     "service1.Date":
     {
-        "day":"29",
+        "day":"27",
         "service1.Time":
         {
-            "hour":"18",
-            "minute":"17"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship131"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"container"
-        },
-        "weight":"11023"
-    },
-    "service1.Time":
-    {
-        "hour":"13",
-        "minute":"7"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"29",
-        "service1.Time":
-        {
-            "hour":"18",
-            "minute":"57"
-        }
-    },
-    "service1.Ship":
-    {
-        "name":"Ship128"
-    },
-    "service1.Good":
-    {
-        "service1.TypesOfGoods":
-        {
-            "typeDescription":"liquid"
-        },
-        "weight":"26797"
-    },
-    "service1.Time":
-    {
-        "hour":"14",
-        "minute":"53"
-    }
-}
-"service1.PortEntity"
-{
-    "service1.Date":
-    {
-        "day":"29",
-        "service1.Time":
-        {
-            "hour":"21",
-            "minute":"27"
+            "hour":"17",
+            "minute":"3"
         }
     },
     "service1.Ship":
@@ -3905,11 +3934,620 @@
         {
             "typeDescription":"container"
         },
-        "weight":"6427"
+        "weight":"9202"
     },
     "service1.Time":
     {
-        "hour":"7",
-        "minute":"39"
+        "hour":"10",
+        "minute":"57"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"27",
+        "service1.Time":
+        {
+            "hour":"21",
+            "minute":"32"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship137"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"13736"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"21"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"27",
+        "service1.Time":
+        {
+            "hour":"21",
+            "minute":"44"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship133"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"18269"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"8"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"27",
+        "service1.Time":
+        {
+            "hour":"22",
+            "minute":"7"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship132"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"24611"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"40"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"28",
+        "service1.Time":
+        {
+            "hour":"3",
+            "minute":"25"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship140"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"17703"
+    },
+    "service1.Time":
+    {
+        "hour":"21",
+        "minute":"4"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"28",
+        "service1.Time":
+        {
+            "hour":"19",
+            "minute":"50"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship142"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"17160"
+    },
+    "service1.Time":
+    {
+        "hour":"20",
+        "minute":"25"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"28",
+        "service1.Time":
+        {
+            "hour":"20",
+            "minute":"35"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship141"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"18684"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"22"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"1",
+            "minute":"13"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship147"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"19733"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"26"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"1",
+            "minute":"56"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship144"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"11708"
+    },
+    "service1.Time":
+    {
+        "hour":"9",
+        "minute":"45"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"4",
+            "minute":"42"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship143"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"16638"
+    },
+    "service1.Time":
+    {
+        "hour":"19",
+        "minute":"48"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"5",
+            "minute":"27"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship146"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"11994"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"16"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"9",
+            "minute":"42"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship150"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"14203"
+    },
+    "service1.Time":
+    {
+        "hour":"16",
+        "minute":"54"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"10",
+            "minute":"9"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship151"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"10561"
+    },
+    "service1.Time":
+    {
+        "hour":"8",
+        "minute":"48"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"14",
+            "minute":"52"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship149"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"10726"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"46"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"21",
+            "minute":"18"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship148"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"23130"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"51"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"29",
+        "service1.Time":
+        {
+            "hour":"22",
+            "minute":"1"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship145"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"12494"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"24"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"30",
+        "service1.Time":
+        {
+            "hour":"0",
+            "minute":"35"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship153"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"25156"
+    },
+    "service1.Time":
+    {
+        "hour":"13",
+        "minute":"58"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"30",
+        "service1.Time":
+        {
+            "hour":"0",
+            "minute":"48"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship154"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"15278"
+    },
+    "service1.Time":
+    {
+        "hour":"12",
+        "minute":"43"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"30",
+        "service1.Time":
+        {
+            "hour":"8",
+            "minute":"55"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship152"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"17324"
+    },
+    "service1.Time":
+    {
+        "hour":"14",
+        "minute":"26"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"30",
+        "service1.Time":
+        {
+            "hour":"9",
+            "minute":"24"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship157"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"container"
+        },
+        "weight":"8541"
+    },
+    "service1.Time":
+    {
+        "hour":"10",
+        "minute":"10"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"30",
+        "service1.Time":
+        {
+            "hour":"9",
+            "minute":"53"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship156"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"liquid"
+        },
+        "weight":"21008"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"40"
+    }
+}
+"service1.PortEntity"
+{
+    "service1.Date":
+    {
+        "day":"30",
+        "service1.Time":
+        {
+            "hour":"18",
+            "minute":"29"
+        }
+    },
+    "service1.Ship":
+    {
+        "name":"Ship155"
+    },
+    "service1.Good":
+    {
+        "service1.TypesOfGoods":
+        {
+            "typeDescription":"dry"
+        },
+        "weight":"13552"
+    },
+    "service1.Time":
+    {
+        "hour":"11",
+        "minute":"17"
     }
 }
