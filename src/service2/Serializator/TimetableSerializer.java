@@ -13,6 +13,7 @@ public class TimetableSerializer {
         try {
             outputJsonFile = new FileWriter(filename + ".json");
         } catch (IOException e) {
+            System.out.println(e.toString());
             e.printStackTrace();
         }
         try {
@@ -24,11 +25,13 @@ public class TimetableSerializer {
             }
         } catch (Exception e) {
             e.printStackTrace();
+            System.out.println(e.toString());
             System.out.println("Something wrong.\n");
         }
         try {
             outputJsonFile.close();
         } catch (IOException e) {
+            System.out.println(e.toString());
             e.printStackTrace();
         }
     }

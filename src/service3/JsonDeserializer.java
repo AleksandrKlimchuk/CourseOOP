@@ -11,12 +11,13 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 public class JsonDeserializer {
-    public static LinkedList<PortEntity> deserialize() throws IllegalAccessException,
+    public static LinkedList<PortEntity> deserialize(String fileName) throws IllegalAccessException,
             InvocationTargetException, InstantiationException {
         FileReader inputJsonFile = null;
         try {
-            inputJsonFile = new FileReader("service2.json");
+            inputJsonFile = new FileReader(fileName + ".json");
         } catch (FileNotFoundException e) {
+            System.out.println(e.toString());
             e.printStackTrace();
         }
         Scanner scanner = new Scanner(inputJsonFile);
@@ -26,12 +27,14 @@ public class JsonDeserializer {
             try {
                 className = getClassNameCorrectness(className);
             } catch (Exception e) {
+                System.out.println(e.toString());
                 e.printStackTrace();
             }
             Class<?> clazz = null;
             try {
                 clazz = Class.forName(className);
             } catch (ClassNotFoundException e) {
+                System.out.println(e.toString());
                 e.printStackTrace();
             }
             String JsonArgument = convertJsonToString(scanner);
